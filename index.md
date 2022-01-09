@@ -4,7 +4,10 @@ ron.grant@parrotthoughts.org
 +1 425 444 5836  
 <http://linkedin.com/in/ron-grant-799b5a20b>  
 
-**API Technical Writer**
+**API Technical Writer**  
+**Software Documentation Writer**  
+**Educator**
+**Technical Project Management**
 
 ## Summary
 
@@ -74,14 +77,14 @@ March 2006 - February 2016 (10 years)
 See, for example, documents I originally wrote and later put into maintence mode: 
 
 #### Conceptual
-<https://docs.microsoft.com/en-us/previous-versions/windows/apps/hh286399(v=vs.105)> and linked docs (deprecated now).
-<https://docs.microsoft.com/en-us/previous-versions/windows/apps/dn792120(v=win.10)> and all docs under the “Adding ads to your apps” node)
+<https://docs.microsoft.com/en-us/previous-versions/windows/apps/hh286399(v=vs.105)> and linked docs (deprecated now)
+<https://docs.microsoft.com/en-us/previous-versions/windows/apps/dn792120(v=win.10)> and all docs under the “Adding ads to your apps” node
 
 #### API Reference
 <https://docs.microsoft.com/en-us/uwp/api/microsoft.advertising?view=winrt-advertising> and all Microsoft.Advertising and Microsoft.Advertising.WinRT.UI NamespaceWinRT.UI docs in these nodes
 
 #### Conceptual and API Reference Updated Docs 
-<https://docs.microsoft.com/en-us/windows/uwp/monetize/display-ads-in-your-app> and all docs under the Display ads in your app with the Microsoft Advertising SDK node.
+<https://docs.microsoft.com/en-us/windows/uwp/monetize/display-ads-in-your-app> and all docs under the Display ads in your app with the Microsoft Advertising SDK node
 
 #### Representative SaaS Bing Ads Docs
 <https://docs.microsoft.com/en-us/advertising/>
@@ -98,14 +101,19 @@ Additional shipped products include:
 March 2002 - February 2006    
 Wrote courseware for Microsoft Learning.<br>
 
-Courses written include *Core Development with the Microsoft .NET Framework 2.0* (Course 2956) and *Introduction to Developing with Windows Presentation Foundation and Visual Studio 2005* (Course 5135).
+Courses written and presented include *Core Development with the Microsoft .NET Framework 2.0* (Course 2956) and *Introduction to Developing with Windows Presentation Foundation and Visual Studio 2005* (Course 5135).
 
 ### Adjunct Instructor
 **Bellevue College** (now Bellevue University), Bellevue, Washington  
 September 2000 - August 2002   
 Taught BA 210, *Introduction to Computer Science*.
 
-Presented lectures about object-oriented software engineering in C++/Java/C#. Taught UX principles and best practices for apps. Taught software development best practices. Assigned work to students that also included specification and documentation writing skills. Wrote and graded exams. Evaluated students and determined grades.
+- Wrote and presented classes about object-oriented software engineering in C++/Java/C#. 
+- Taught UX principles and best practices for apps. 
+- Taught software development best practices. 
+- Assigned work to students that also included specification and documentation writing skills. 
+- Wrote and graded exams. 
+- Evaluated students and determined grades.
 
 
 ### Lead Software Design Engineer in Test
