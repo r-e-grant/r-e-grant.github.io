@@ -149,7 +149,7 @@ Courses in Law, Business, Contracts, Corporation, Intellectual Property, Writing
 ### College of William & Mary
 **Social Science Statistics - Terminal MA**  
 Williamsburg, Virginia  
-Interdisciplenary program in American Studies with an emphasis on statistical analysis in collaboration with the Mathematics department.<br>
+interdisciplinary program in American Studies with an emphasis on statistical analysis in collaboration with the Mathematics department.<br>
 Defunct.<br>
 <https://catalog.wm.edu/preview_program.php?catoid=23&poid=4533>
 
