@@ -67,8 +67,7 @@ March 2006 - February 2016 (10 years)
 - Using HTML and XML Oxygen based editors that enforce DITA standards, wrote API documentation, code samples, and other content for all levels and partners involved in software development (SMEs, User Experience, Executives, Project Mangers, Developers and Testers, Legal, and End Users). 
 - Samples written in multiple languages (C/C++/C#, Java, JavaScript, XAML).
 - Worked closely with developer audiences, Support (Tier 1, 2, 3), and external business partners worldwide.
-- When Microsoft acquired GitHub, I managed the transition of docs from a Visual Team Studio environment to GitHub single sourcing content and version control (CCMS). 
-<https://github.com/BingAds>
+- When Microsoft acquired GitHub, I managed the transition of docs from a Visual Team Studio environment to GitHub single sourcing content and version control (CCMS). <https://github.com/BingAds>
 
 - Responsible for over 1000 pages of public facing documentation and metadata released on MSDN according to tight deadlines of a daily cadence with a simultaneous 500 pages released quarterly as part of an SDK DLL.
 
