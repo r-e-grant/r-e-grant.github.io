@@ -6,8 +6,8 @@ ron.grant@parrotthoughts.org
 
 **API Technical Writer**  
 **Software Documentation Writer**  
-**Educator**
-**Technical Project Management**
+**Educator**  
+**Technical Project Manager**
 
 ## Summary
 
