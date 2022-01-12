@@ -65,9 +65,9 @@ March 2006 - February 2016 (10 years)
 
 - Collaborated, using SharePoint daily, with on-site teams and world-wide virtual teams to help document and drive technical projects to completion for Microsoft’s Azure Bing Ads Delivery Platform SaaS (REST/SOAP, .NET, C/C++/C#). 
 - Authored and edited technical content adhering to MSTP authoring standards.
-- Produced Developer Education materials including videos, conceptual and API documentation, and code samples that are accurate, instructionally sound, structured in a minimalist style, reusable, and componentized. 
+- Produced Developer Education materials including videos, conceptual and API documentation, and code samples that are accurate, instructionally sound, structured in a minimalist style, reusable, and componentized.
 - Documentation written incudes business processes, how to articles, troubleshooting guides, overviews, online help, and others.
-- Using HTML and XML Oxygen based editors that enforce DITA standards, wrote API documentation, code samples, and other content for all levels and partners involved in software development (SMEs, User Experience, Executives, Project Mangers, Developers and Testers, Legal, and End Users). 
+- Using HTML and XML Oxygen based editors that enforce DITA standards, wrote API documentation, code samples, and other content for all levels and partners involved in software development (SMEs, User Experience, Executives, Project Mangers, Developers and Testers, Legal, and End Users).
 - Samples written in multiple languages (C/C++/C#, Java, JavaScript, XAML).
 - Worked closely with developer audiences, Support (Tier 1, 2, 3), and external business partners worldwide.
 - When Microsoft acquired GitHub, I managed the transition of docs from a Visual Team Studio environment to GitHub single sourcing content and version control (CCMS). <https://github.com/BingAds>
@@ -84,7 +84,7 @@ See, for example, documents I originally wrote and later put into maintence mode
 <https://docs.microsoft.com/en-us/uwp/api/microsoft.advertising?view=winrt-advertising> and all Microsoft.Advertising and Microsoft.Advertising.WinRT.UI NamespaceWinRT.UI docs in these nodes
 
 #### Conceptual and API Reference Updated Docs 
-<https://docs.microsoft.com/en-us/windows/uwp/monetize/display-ads-in-your-app> and all docs under the Display ads in your app with the Microsoft Advertising SDK node
+<https://docs.microsoft.com/en-us/windows/uwp/monetize/display-ads-in-your-app> and all docs under the "Display ads in your app with the Microsoft Advertising SDK" node
 
 #### Representative SaaS Bing Ads Docs
 <https://docs.microsoft.com/en-us/advertising/>
@@ -149,7 +149,7 @@ Courses in Law, Business, Contracts, Corporation, Intellectual Property, Writing
 ### College of William & Mary
 **Social Science Statistics - Terminal MA**  
 Williamsburg, Virginia  
-interdisciplinary program in American Studies with an emphasis on statistical analysis in collaboration with the Mathematics department.<br>
+Interdisciplinary program in American Studies with an emphasis on statistical analysis in collaboration with the Mathematics department.<br>
 Defunct.<br>
 <https://catalog.wm.edu/preview_program.php?catoid=23&poid=4533>
 
