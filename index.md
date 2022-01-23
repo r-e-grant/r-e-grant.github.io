@@ -17,7 +17,7 @@ ron.grant@parrotthoughts.org
 
 At Microsoft Corporation, from 2002 to 2016, I worked as an employee in Developer Education and API Documentation (after advancing up the Test-Developer track). 
 
-Since 2016 I have used my expertise to help small and developing software businesses in Mexico break into the US market, including refactoring and migrating content from ad-hoc depositories to best-practices USA standards (GitHub, Structured DITA XML CCM systems, Panda, Confluence).
+Since 2016 I have used my expertise to help small and developing software businesses in Mexico break into the US market, including refactoring and migrating content from ad-hoc depositories to best-practices USA standards (GitHub, Structured DITA XML CCM systems, Panda, Confluence, Postman).
 
 I have a range of business experience outside of API/Technical Documentation, so I understand its cross-functional context when consumed by Product, Marketing, Engineering and Leadership team audiences. 
 
@@ -138,7 +138,7 @@ Additional products shipped include:
 **Bachelor of Science - BS, Computer Science & Software Engineering**  
 Bothell, Washington  
 The CSSE degree program offers a multidisciplinary approach that enables students to develop a wide range of competencies needed for success in the dynamic and varied field of software engineering.<br>
-https://www.uwb.edu/bscss
+<https://www.uwb.edu/bscss>
 
 ### Gonzaga University School of Law
 **Doctor of Law - JD**  
